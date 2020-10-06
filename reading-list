@@ -1,0 +1,158 @@
+1. The Art of Readable Code: Simple and Practical Techniques for Writing Better Code
+
+Usar los nombres correctos
+
+
+
+2. Implementation patterns - Kent Beck
+
+Estructurar bien los códigos
+
+
+
+3. Clean Code - Robert C. Martin
+
+Dejar el código limpio
+
+
+
+4. Beautiful Code: Leading Programmers Explain How They Think
+
+Otra visión de código
+
+
+
+5. Software Architecture Patterns - Mark Richards
+
+Conocer la estructura general de software
+
+
+
+Pasos a la mejora del código:
+
+
+6. Refactoring improving the Design of Existing Code - Martin Fowler, with Kent Beck
+
+Limpiar nuestro código
+
+
+
+7. Test Driven Development: By Example - Kent Beck
+
+Hacer el código correcto (Doing things right)
+
+
+
+8. Test Driven: TDD and Acceptance TDD for Java Developers: Practical TDD and Acceptance TDD
+
+Hacer la casa correcta (Doing the right things)
+
+
+
+9. xUnit Test Patterns: Refactoring Test Code
+
+Profundizar las pruebas
+
+
+
+10.Extreme Programming Explained: Embrace Change - Kent Beck
+
+Aprender tdd, pair programing, and code review
+
+
+
+Pasos a los procesos del equipo:
+
+
+11.Kanban in Action
+
+Conocer kanban
+
+
+
+12.Scrum in Action: Agile Software Project Management and Developmen
+
+Conocer scrum
+
+
+
+13.Git Flow cheatsheet y Master Only
+
+Gestionar el código
+
+
+
+Pasos a la mejora de la solución:
+
+
+14.Domain-Driven Design Quickly y Domain-Driven Design Distilled
+
+Conocer el dominio del problema
+
+
+
+15. Implementing Domain-driven Design
+
+Modelar el problema antes de llevar lo al códgio
+
+
+
+16. Design Patterns: Elements of Reusable Object-Oriented Software
+
+Diseñar una solución eficiente
+
+
+
+Pasos a trabajar como un ingeniero
+
+
+17. Domain-Driven Design: Tackling Complexity in the Heart of Software
+
+El problema real siempre es complicado
+
+
+
+18. Clean Architecture
+
+S.O.L.I.D
+
+
+
+19. hexagonal-architecture 
+
+No solo las capas
+
+
+
+20. Beautiful Architecture - Diomidis Spinellis, Georgios Gousios
+
+La arquitectura es un proceso
+
+
+
+21. Building Microservices - Sam Newman
+
+La arquitectura es un proceso evolutivo
+
+
+
+
+
+Más libros:
+-Docker in Production: Lessons from the Trenches Kindle Edition
+
+-Netty in Action
+
+-SRE https://landing.google.com/sre/books/
+
+- Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale
+
+- Refactoring Databases: Evolutionary Database Design
+
+- 企业IT架构转型之道：阿里巴巴中台战略思想与架构实战
+
+- The Mythical Man-Month: Essays on Software Engineering
+
+- Who Says Elephants Can't Dance?: Leading a Great Enterprise Through Dramatic Change
+
+- IT通史：计算机技术发展与计算机企业商战风云
