@@ -158,14 +158,16 @@ La arquitectura es un proceso evolutivo
 
 http://index-of.es/Varios/Sam%20Newman-Building%20Microservices-O'Reilly%20Media%20(2015).pdf
 
+22. sre
+
+-SRE https://landing.google.com/sre/books/
+-
 
 
 Más libros:
 -Docker in Production: Lessons from the Trenches Kindle Edition
 
 -Netty in Action
-
--SRE https://landing.google.com/sre/books/
 
 - Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale
 
