@@ -163,6 +163,15 @@ http://index-of.es/Varios/Sam%20Newman-Building%20Microservices-O'Reilly%20Media
 -SRE https://landing.google.com/sre/books/
 -
 
+23 architecture
+-Fundamentals of Software Architecture: An Engineering Approach
+
+24 start proyect
+https://martinfowler.com/articles/lean-inception/
+https://www.eventstorming.com/
+
+25 
+https://dddeurope.com/15years/
 
 Más libros:
 -Docker in Production: Lessons from the Trenches Kindle Edition
